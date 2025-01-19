@@ -19,10 +19,9 @@
   
 
 ## 💻 개발환경
-- **Version** : Java 17
-- **IDE** : IntelliJ
-- **Framework** : SpringBoot 2.7.11
-- **ORM** : JPA
+- **Framework** : React Native, Ganache, Truffle
+- **Sever** : Nodejs
+- **Database** : Firebase, Mongo DB
 
 
 ## 📝 프로젝트 아키텍쳐
